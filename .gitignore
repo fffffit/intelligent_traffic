@@ -49,3 +49,5 @@ ruoyi-ui/public/video/identify.mp4
 
 ###
 ruoyi-simulation/src/main/resources/front-dev/traffic_demo/node_modules/
+ruoyi-simulation\src\main\resources\front-dev\traffic_demo\package.json
+ruoyi-simulation\src\main\resources\front-dev\traffic_demo\package-lock.json
